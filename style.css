@@ -1,0 +1,57 @@
+<head>
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tienda de ojetos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+            border:solid;
+            border-color:gold;
+        }
+        .product {
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 10px;
+            margin: 10px 0;
+            background-color: white;
+            display: flex;
+            align-items: center;
+        }
+        .product img {
+            width: 100px; /* Tamaño de la imagen */
+            height: 100px;
+            margin-right: 20px;
+        }
+        h2 {
+            margin: 0;
+        }
+.class menu-toggle{
+    background:none;
+    color:#F0000;
+    font-size:none;
+    cursor:;
+    position:;
+    right:20px;
+    top:5px;
+}
+button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
